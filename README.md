@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danish</h1>
 <h3 align="center">A passionate frontend & Backend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **React Js|| Marn Stack**
+- 🔭 I’m currently working on **Laravel 8|| Marn Stack**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Laravel 8*
 
-- 👯 I’m looking to collaborate on **React Js**
+- 👯 I’m looking to collaborate on **Laravel 8**
 
 - 🤝 I’m looking for help with **AWS**
 
